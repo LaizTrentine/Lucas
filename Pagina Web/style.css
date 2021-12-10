@@ -1,0 +1,110 @@
+
+body{
+	background-color: #1C1C1C;
+
+}
+
+p{
+	text-align: center;
+	font-size: 28px;
+	color: #87CEFA;
+	background-color: #1C1C1C;
+	padding: 0 5rem 0 5rem;
+}
+#hollowknight{
+	width: 100%;
+	height: 580px;
+}
+
+h1{
+	background-color: #1C1C1C;
+	font-size: 55px;
+	color: #DCDCDC;
+	text-align: center;
+	padding-bottom: 1em;
+	font-family: dancing script;
+}
+
+
+em strong{
+	color: 	#1E90FF;
+	
+}
+footer {
+	text-align: center;
+	background: url("bg.jpg");
+	padding: 40px 0;
+}
+
+.titulo__inicio {
+	padding-bottom: 1em;
+	padding-top: 1em;
+}
+
+.musica__inicio {
+	padding-bottom: 1em;
+}
+
+
+.imagem__final {
+	width: 40%;
+}
+
+.imagens {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	
+}
+
+.audio__final {
+	padding: 1.5em;
+}
+
+
+.imagem-carrosel {
+    object-fit: cover;
+	height: 656px;
+}
+
+
+.ei {
+	padding: none;
+	border: none;
+}
+
+.card-text {
+	font-size: 20px;
+}
+
+.historia {
+	padding-top: 10rem;
+	padding: 5rem 5rem 0 5rem;
+}
+
+
+h5 {
+	font-size: 60px;
+	text-align: center;
+	font-family: 'Cormorant Garamond', serif;
+	color: white;
+	padding-top: 15rem;
+	padding-bottom: 3rem;
+}
+
+
+.imagem {
+	width: 60%;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	padding-bottom: 2rem;
+}
+
+h4 {
+	font-size: 35px;
+	text-align: center;
+	font-family: 'Cormorant Garamond', serif;
+	color: white;
+	padding-top: 2rem;
+}
